@@ -5,7 +5,7 @@ Two eyeballs follow your mouse movements
 In this exercise two eyes are created via CSS styles and then the mouse movements are bound to the DOM to create the effect of eye movement. 
 
 ## How to run
-Simply load the page to your browser and move the mouse around to wath the eye balls follow your movements.
+Simply load the page to your browser and move the mouse around to watch the eye balls follow your movements.
 
 ## License
 MIT License
