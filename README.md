@@ -2,7 +2,7 @@
 Two eyeballs follow your mouse movements
 
 ## Description
-In this exercise two eyes are created via CSS styles and then the mouse movements are bound to the DOM to create the effect of eye movement. The CSS styling was based on the course's CSS file with modifications to change the colors based on inspiration from the Farrow and Ball California collection. Title and body sections "softened" with the use of round corners.
+In this exercise two eyes are created via CSS styles and then the mouse movements are bound to the DOM to create the effect of eye movement.
 
 ## How to run
 Simply load the page to your browser and move the mouse around to watch the eye balls follow your movements.
